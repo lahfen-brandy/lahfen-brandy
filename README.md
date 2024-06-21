@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rejie
-- 👀 I’m a full-stack developer. I code with TypeScript | JavaScript | Python | Java...
+- 👀 I’m a full-stack developer. I code with TypeScript | JavaScript | Python | Java 
     - I am primarily a React developer.
-    - 🌱 I Love Baking 
+    - 🌱 I Love Baking
     - Family man ✨
 - 💞️ I’m looking to collaborate on real-world projects...
 
