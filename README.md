@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rejie
+- 👋 Hi, I’m LahfenBrandy
 - 👀 I’m a full-stack developer. I code with TypeScript | JavaScript | Python | Java 
     - I am primarily a React developer.
     - 🌱 I Love Baking
