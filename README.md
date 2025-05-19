@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LahfenBrandy
+- 👋 Hi, I’m Lahfen Brandy
 - 👀 I’m a full-stack developer. I code with TypeScript | JavaScript | Python | Java 
     - I am primarily a React developer.
     - 🌱 I Love Baking
