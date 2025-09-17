@@ -91,7 +91,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-lists
 
 <div align="center">
   <h3 style="display: inline-block">
-    ⚒️ Others ⚒️
+    ⚒️ systems I've used ⚒️
   </h3>
   <div div align="center" width="8px">
  <img src="./OS'/image-1.png" width="103"/><span>&nbsp;</span>
