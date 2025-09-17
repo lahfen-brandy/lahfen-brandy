@@ -51,8 +51,8 @@ https://icon-sets.iconify.design/simple-icons/
  <img src="./Tools/subfinder-logo.svg" width="6.5%"/>
  <img src="./Tools/nikto-logo.svg" width="6.5%" />
  </br>
- <img src="./Tools/gobuster-logo.svg" width="6.5%" />
- <img src="./Tools/amass-logo.svg" width="6.5%" />
+ <img src="./Tools/gobuster-logo.svg" width="7%" />
+ <img src="./Tools/amass-logo.svg" width="6%" />
  <img src="./Tools/nuclei-logo.svg" width="6.5%"/>
  <img src="./Tools/dirsearch-logo.svg" width="6.5%" />
  <img src="./Tools/ffuf-logo.svg" width="6.5%" />
