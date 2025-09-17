@@ -42,7 +42,7 @@ cool flowery effect
     My base languages ⚡
   </h3>
 
-  <img src="https://skillicons.dev/icons?i=py"/>
+  <img src="https://skillicons.dev/icons?i=py" width="9%"/>
   <img src="./Languages/image-4.png" width="8%">
   <img src="./Languages/image-6.png" width="8%">
   <img src="./Languages/image-7.png" width="8%">
@@ -75,11 +75,11 @@ cool flowery effect
   <h3 style="display: inline-block">
     ⚒️ Others ⚒️
   </h3>
-  <div style="dispaly:flex; width: 90%; align-items:center">
- <img src="./OS'/image-1.png" width="85%"/> <img src="./OS'/image-3.png" width="15%"/> <img src="./OS'/image.png" width="15%"/> <img src="https://skillicons.dev/icons?i=windows" width="90"/> <img src="./Languages/image-5.png" width="16%"/>
+  <div style="dispaly:flex; width: 30%; position: relative; align-items:center; justify-content:center">
+ <img src="./OS'/image-1.png" width="75%" style="margin-right:80px; cursor:pointer"/> <img src="./OS'/image-3.png" width="15%"style="cursor:pointer"/> <img src="./OS'/image.png" width="15%" yy/> <img src="https://skillicons.dev/icons?i=windows" width="30"/> <img src="./Languages/image-5.png" width="19%"/>
  </div> 
 </div>
-
+</br>
 <div align="center">
   <h3 style="display: inline-block"> 
     📈 My Stats 📈
