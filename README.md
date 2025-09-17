@@ -1,6 +1,6 @@
 <!--
 get icon list here
-https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
+https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-lists
 -->
 
 <h1 align="center" style="display: inline-block; margin: 1rem auto">
@@ -14,7 +14,6 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
   - 🚀 leveling up my skills on **[tryhackme](https://tryhackme.com/p/Lbstorm)**
 
 - 👯 I’m looking to collaborate on a reasonable **real world** project with a team
-<!-- - 🤔 I’m looking for help with ... -->
 - ⚙️ Visit my Github Org **[lahfen-brandy](https://github.com/lahfen-brandy)**
 
 - 📫 How to reach me:
@@ -28,25 +27,16 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
   - **[medium/@lahfenbrandy](https://medium.com/@lahfenbrandy)**
   - **<lahfenbrandy@gmail.com>**
 
-<!-- - 😄 Pronouns: He/Him -->
-<!-- - ⚡⚡ Fun fact:  -->
-
-<!--
-cool flowery effect
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
--->
-
 <div align="center">
   <h3 style="display: inline-block">
     My base languages ⚡
   </h3>
 
-  <img src="https://skillicons.dev/icons?i=py" width="10%"/>
-  <img src="./Languages/image-4.png" width="10%">
-  <img src="./Languages/image-6.png" width="10%">
-  <img src="./Languages/image-7.png" width="10%">
-  <img src="./Languages/image-8.png" width="10%">
+  <img src="https://skillicons.dev/icons?i=py" width="6.5%"/>
+  <img src="./Languages/image-4.png" width="6.5%">
+  <img src="./Languages/image-6.png" width="6.5%">
+  <img src="./Languages/image-7.png" width="6.5%">
+  <img src="./Languages/image-8.png" width="6.5%">
 </div>
 
 <div align="center">
@@ -54,33 +44,63 @@ cool flowery effect
     My Tools and Tech stack 👨🏻‍💻
   </h3>
 
-  <img src="./Tools/nmap-logo.svg" width="10%" /> <img src="./Tools/subfinder-logo.svg" width="10%"/> <img src="./Tools/nikto-logo.svg" width="10%" /> <img src="./Tools/gobuster-logo.svg" width="10%" /> <img src="./Tools/amass-logo.svg" width="10%" />
+  <img src="./Tools/nmap-logo.svg" width="6.5%" />
+  <img src="./Tools/subfinder-logo.svg" width="6.5%"/>
+  <img src="./Tools/nikto-logo.svg" width="6.5%" />
+  <img src="./Tools/gobuster-logo.svg" width="6.5%" />
+  <img src="./Tools/amass-logo.svg" width="6.5%" />
   <br />
 
-<img src="./Tools/dirsearch-logo.svg" width="10%" /> <img src="./Tools/exploitdb-logo.svg" width="10%" /> <img src="./Tools/sqlmap-logo.svg" width="12%" /> <img src="./Tools/metasploit-logo.svg" width="10%" /> <img src="./Tools/webshells-logo.svg" width="10%" /> <img src="./Tools/aircrack-ng-logo.svg" width="11%" /> <img src="./Tools/responder-logo.svg" width="10%" /> <img src="./Tools/seclists-logo.svg" width="10%" />
+<img src="./Tools/dirsearch-logo.svg" width="6.5%"/>
+<img src="./Tools/exploitdb-logo.svg" width="6.5%" />
+<img src="./Tools/sqlmap-logo.svg" width="7%" />
+<img src="./Tools/metasploit-logo.svg" width="6.5%" />
+<img src="./Tools/webshells-logo.svg" width="6.5%" />
+<img src="./Tools/aircrack-ng-logo.svg" width="6.9%" />
+<img src="./Tools/responder-logo.svg" width="6.5%" />
+<img src="./Tools/seclists-logo.svg" width="6.5%" />
   <br />
 
- <img src="./Tools/john-logo.svg" width="10%" /> <img src="./Tools/hash-identifier-logo.svg" width="10%" /> <img src="./Tools/johnny-logo.svg" width="10%" /> <img src="./Tools/hashid-logo.svg" width="10%" /> <img src="./Tools/hashcat-logo.svg" width="10%" /> <img src="./Tools/wordlists-logo.svg" width="10%" />
+ <img src="./Tools/john-logo.svg" width="6.5%" />
+ <img src="./Tools/hash-identifier-logo.svg" width="6.5%"/>
+ <img src="./Tools/johnny-logo.svg" width="6.5%"/>
+ <img src="./Tools/hashid-logo.svg" width="6.5%" />
+ <img src="./Tools/hashcat-logo.svg" width="6.5%" />
+ <img src="./Tools/wordlists-logo.svg" width="6.5%" />
   <br />
 
-  <img src="./Tools/hydra-logo.svg" width="11%" /> <img src="./Tools/crackmapexec-logo.svg" width="11%" /> <img src="./Tools/enum4linux-logo.svg" width="11%" /> <img src="./Tools/smbmap-logo.svg" width="10%" /> <img src="./Tools/netexec-logo.svg" width="10%" /> <img src="./Tools/netcat-logo.svg" width="10%" /> <img src="./Tools/bloodhound-logo.svg" width="12%5" /> <img src="./Tools/theharvester-logo.svg" width="11%" />
+  <img src="./Tools/hydra-logo.svg" width="6.9%"/>
+  <img src="./Tools/crackmapexec-logo.svg" width="6.9%"/>
+  <img src="./Tools/enum4linux-logo.svg" width="6.9%"/>
+  <img src="./Tools/smbmap-logo.svg" width="6.5%"/>
+  <img src="./Tools/netexec-logo.svg" width="6.5%"/>
+  <img src="./Tools/netcat-logo.svg" width="6.5%"/>
+  <img src="./Tools/bloodhound-logo.svg" width="7%"/>
+  <img src="./Tools/theharvester-logo.svg" width="6.9%"/>
   <br />
 
-  <img src="https://skillicons.dev/icons?i=github" width="70"/> <img src="./Tools/wireshark-logo.svg" width="10%" /> <img src="./Tools/burpsuite-logo.svg" width="11%" /> <img src="./Tools/ollydbg-logo.svg" width="12%" /> <img src="./Tools/impacket-logo.svg" width="10%" />
+  <img src="https://skillicons.dev/icons?i=github" width="8%"/>
+  <img src="./Tools/wireshark-logo.svg" width="6.5%" />
+  <img src="./Tools/burpsuite-logo.svg" width="6.5%" />
+  <img src="./Tools/ollydbg-logo.svg" width="6.5%" />
+  <img src="./Tools/impacket-logo.svg" width="6.5%" />
   
   <br/>
-  <img src="./Tools/shodan.webp" width="26%" />
+  <img src="./Tools/shodan.webp" width="20%" />
 </div>
 
 <div align="center">
   <h3 style="display: inline-block">
     ⚒️ Others ⚒️
   </h3>
-  <div div align="center"style="dispaly:flex; width: 200px; position: relative; align-items:center; justify-content:center">
- <img src="./OS'/image-1.png" width="120" style="margin-right:80px; cursor:pointer"/> <img src="./OS'/image-3.png" width="30"style="cursor:pointer"/> <img src="./OS'/image.png" width="30" yy/> <img src="https://skillicons.dev/icons?i=windows" width="30"/> <img src="./Languages/image-5.png" width="35"/>
+  <div div align="center" width="8px">
+ <img src="./OS'/image-1.png" width="60"/>
+ <img src="./OS'/image-3.png" width="60"/>
+ <img src="./OS'/image.png" width="60"/>
+ <img src="https://skillicons.dev/icons?i=windows" width="60"/>
+ <img src="./Languages/image-5.png" width="65"/>
  </div> 
 </div>
-</br>
 <div align="center">
   <h3 style="display: inline-block"> 
     📈 My Stats 📈
