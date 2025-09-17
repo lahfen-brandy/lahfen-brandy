@@ -22,7 +22,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-lists
   - **[labex/@lbstorm](https://labex.io/users/lb-storm-38355818)**
   - **[intigriti/@fbstorm](https://app.intigriti.com/researcher/profile/fbstorm)**
   - **[bugcrowd/@fbstorm](https://bugcrowd.com/h/fbstorm)**
-  - **[hacker0ne/@fbstorm](https://hackerone.com/fbstorma)**
+  - **[hacker0ne/@fbstorm](https://hackerone.com/fbstorm)**
   - **[hackthebox/@lbstorm](https://app.hackthebox.com/users/2388971)**
   - **[medium/@lahfenbrandy](https://medium.com/@lahfenbrandy)**
   - **<lahfenbrandy@gmail.com>**
