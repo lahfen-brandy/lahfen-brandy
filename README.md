@@ -42,7 +42,7 @@ cool flowery effect
     My base languages ⚡
   </h3>
 
-  <img src="https://skillicons.dev/icons?i=py" width="10%"/>
+  <img src="https://skillicons.dev/icons?i=py" width="5%"/>
   <img src="./Languages/image-4.png" width="10%">
   <img src="./Languages/image-6.png" width="10%">
   <img src="./Languages/image-7.png" width="10%">
