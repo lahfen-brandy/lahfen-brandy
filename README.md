@@ -6,7 +6,7 @@ https://icon-sets.iconify.design/simple-icons/
 -->
 
 <h1 align="center" style="display: inline-block; margin: 1rem auto">
- Hi there  I'm Brandy (storm🎃) a bounty hunter
+ Hi there  I'm Brandy (storm🎃) a 🐞 bounty hunter
 </h1>
 
 - 🔭 pentester and offsec enthusiast.
@@ -47,49 +47,52 @@ https://icon-sets.iconify.design/simple-icons/
     My Tools and Tech stack 👨🏻‍💻
   </h3>
 
-  <img src="./Tools/nmap-logo.svg" width="6.5%" />
-  <img src="./Tools/subfinder-logo.svg" width="6.5%"/>
-  <img src="./Tools/nikto-logo.svg" width="6.5%" />
-  <img src="./Tools/gobuster-logo.svg" width="6.5%" />
-  <img src="./Tools/amass-logo.svg" width="6.5%" />
+ <img src="./Tools/nmap-logo.svg" width="6.5%" />
+ <img src="./Tools/subfinder-logo.svg" width="6.5%"/>
+ <img src="./Tools/nikto-logo.svg" width="6.5%" />
+ </br>
+ <img src="./Tools/gobuster-logo.svg" width="6.5%" />
+ <img src="./Tools/amass-logo.svg" width="6.5%" />
+ <img src="./Tools/nuclei-logo.svg" width="6.5%"/>
+ <img src="./Tools/dirsearch-logo.svg" width="6.5%" />
+ <img src="./Tools/ffuf-logo.svg" width="6.5%" />
+ <br />
+ <img src="./Tools/wafw00f-logo.svg" width="6.5%" />
+ <img src="./Tools/webshells-logo.svg" width="6.5%" />
+ <img src="./Tools/exploitdb-logo.svg" width="6.9%" />
+ <img src="./Tools/responder-logo.svg" width="6%" />
+ <img src="./Tools/seclists-logo.svg" width="6.5%" />
+ <img src="./Tools/netcat-logo.svg" width="6.5%"/>
+ <img src="./Tools/socat-logo.svg" width="6.5%" />
+ <img src="./Tools/bloodhound-logo.svg" width="7%"/>
   <br />
-
-<img src="./Tools/dirsearch-logo.svg" width="6.5%"/>
-<img src="./Tools/exploitdb-logo.svg" width="6.5%" />
-<img src="./Tools/sqlmap-logo.svg" width="7%" />
-<img src="./Tools/metasploit-logo.svg" width="6.5%" />
-<img src="./Tools/webshells-logo.svg" width="6.5%" />
-<img src="./Tools/aircrack-ng-logo.svg" width="6.9%" />
-<img src="./Tools/responder-logo.svg" width="6.5%" />
-<img src="./Tools/seclists-logo.svg" width="6.5%" />
-  <br />
-
  <img src="./Tools/john-logo.svg" width="6.5%" />
  <img src="./Tools/hash-identifier-logo.svg" width="6.5%"/>
  <img src="./Tools/johnny-logo.svg" width="6.5%"/>
  <img src="./Tools/hashid-logo.svg" width="6.5%" />
  <img src="./Tools/hashcat-logo.svg" width="6.5%" />
  <img src="./Tools/wordlists-logo.svg" width="6.5%" />
-  <br />
-
-  <img src="./Tools/hydra-logo.svg" width="6.9%"/>
-  <img src="./Tools/crackmapexec-logo.svg" width="6.9%"/>
-  <img src="./Tools/enum4linux-logo.svg" width="6.9%"/>
-  <img src="./Tools/smbmap-logo.svg" width="6.5%"/>
-  <img src="./Tools/netexec-logo.svg" width="6.5%"/>
-  <img src="./Tools/netcat-logo.svg" width="6.5%"/>
-  <img src="./Tools/bloodhound-logo.svg" width="7%"/>
-  <img src="./Tools/theharvester-logo.svg" width="6.9%"/>
-  <br />
-
-  <img src="https://skillicons.dev/icons?i=github" width="8%"/>
-  <img src="./Tools/wireshark-logo.svg" width="6.5%" />
-  <img src="./Tools/burpsuite-logo.svg" width="6.5%" />
-  <img src="./Tools/ollydbg-logo.svg" width="6.5%" />
-  <img src="./Tools/impacket-logo.svg" width="6.5%" />
-  
-  <br/>
-  <img src="./Tools/shodan.webp" width="20%" />
+ <img src="./Tools/hydra-logo.svg" width="6.9%"/>
+ <img src="./Tools/crackmapexec-logo.svg" width="6.9%"/>
+ <img src="./Tools/enum4linux-logo.svg" width="6.9%"/>
+ <img src="./Tools/smbmap-logo.svg" width="6.5%"/>
+ <br />
+ <img src="./Tools/metasploit-logo.svg" width="6.5%" />
+ <img src="./Tools/sqlmap-logo.svg" width="7%" />
+ <img src="./Tools/netexec-logo.svg" width="6.5%"/>
+ <img src="./Tools/theharvester-logo.svg" width="6.9%"/>
+ <img src="./Tools/impacket-logo.svg" width="6.5%" />
+ <img src="https://skillicons.dev/icons?i=postman" width="6%"/>
+ <img src="./Tools/burpsuite-logo.svg" width="6.5%" />
+ <img src="./Tools/ollydbg-logo.svg" width="6.5%" />
+ <br />
+ <img src="./Tools/wireshark-logo.svg" width="6.5%" />
+ <img src="./Tools/aircrack-ng-logo.svg" width="6.9%" />
+ <img src="./Tools/crunch-logo.svg" width="6.2%" />
+ <img src="./Tools/cewl-logo.svg" width="7%" />
+ <img src="https://skillicons.dev/icons?i=github" width="8%"/>
+ <br/>
+ <img src="./Tools/shodan.webp" width="20%" />
 </div>
 
 <div align="center">
@@ -117,7 +120,11 @@ https://icon-sets.iconify.design/simple-icons/
 
   [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-6CC644?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2388971) 
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4769?style=flat-square&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/Lbstorm)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4769?style=flat-square&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/Lbstorm)
+
+<!-- HACKVISER PROFILE
+[![Hackviser](https://img.shields.io/badge/Hackviser-00c853?&style=flat-square&logo=codeforces&logoColor=black)](https://app.hackviser.com/profile/lbstorm) -->
+
 
 [![LabEx](https://img.shields.io/badge/LabEx-008080?style=flat-square&logo=linux&logoColor=black)](https://labex.io/users/lb-storm-38355818)
 </div>
