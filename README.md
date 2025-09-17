@@ -1,6 +1,8 @@
 <!--
 get icon list here
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-lists
+
+https://icon-sets.iconify.design/simple-icons/
 -->
 
 <h1 align="center" style="display: inline-block; margin: 1rem auto">
