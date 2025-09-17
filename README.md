@@ -93,7 +93,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-lists
   <h3 style="display: inline-block">
     ⚒️ Others ⚒️
   </h3>
-  <div div align="center" width="8px">
+  <div div align="center">
  <img src="./OS'/image-1.png" width="60"/>
  <img src="./OS'/image-3.png" width="60"/>
  <img src="./OS'/image.png" width="60"/>
