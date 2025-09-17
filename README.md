@@ -94,11 +94,11 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-lists
     ⚒️ Others ⚒️
   </h3>
   <div div align="center" width="8px">
- <img src="./OS'/image-1.png" width="60"/>
- <img src="./OS'/image-3.png" width="60"/>
+ <img src="./OS'/image-1.png" width="100" style="position: relative; top:19"/>
  <img src="./OS'/image.png" width="60"/>
  <img src="https://skillicons.dev/icons?i=windows" width="60"/>
  <img src="./Languages/image-5.png" width="65"/>
+  <img src="./OS'/image-3.png" width="60"/>
  </div> 
 </div>
 <div align="center">
