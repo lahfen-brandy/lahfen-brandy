@@ -95,11 +95,11 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-lists
     ⚒️ systems I've used ⚒️
   </h3>
   <div div align="center" width="8px">
- <img src="./OS'/image-1.png" width="103"/><span>&nbsp;</span>
- <img src="./OS'/image.png" width="60"/><span>&nbsp;</span>
- <img src="https://skillicons.dev/icons?i=windows" width="60"/><span>&nbsp;</span>
- <img src="./OS'/image-4.png" width="70"/><span>&nbsp;</span>
-  <img src="./OS'/image-3.png" width="60"/>
+ <img src="./OS'/image-1.png" width="11%"/><span>&nbsp;&nbsp;</span>
+ <img src="./OS'/image.png" width="7%"/><span>&nbsp;&nbsp;</span>
+ <img src="https://skillicons.dev/icons?i=windows" width="7%"/><span>&nbsp;&nbsp;</span>
+ <img src="./OS'/image-4.png" width="6.5%"/><span>&nbsp;&nbsp;</span>
+  <img src="./OS'/image-3.png" width="7%"/>
  </div> 
 </div>
 <div align="center">
