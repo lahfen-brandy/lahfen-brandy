@@ -22,7 +22,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-lists
   - **[labex/@lbstorm](https://labex.io/users/lb-storm-38355818)**
   - **[intigriti/@fbstorm](https://app.intigriti.com/researcher/profile/fbstorm)**
   - **[bugcrowd/@fbstorm](https://bugcrowd.com/h/fbstorm)**
-  - **[hacker0ne/@fbstorm](https://hackerone.com/fbstorma)**
+  - **[hacker0ne/@fbstorm](https://hackerone.com/fbstorm)**
   - **[hackthebox/@lbstorm](https://app.hackthebox.com/users/2388971)**
   - **[medium/@lahfenbrandy](https://medium.com/@lahfenbrandy)**
   - **<lahfenbrandy@gmail.com>**
@@ -34,6 +34,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-lists
 
   <img src="https://skillicons.dev/icons?i=py" width="6.5%"/>
   <img src="./Languages/image-4.png" width="6.5%">
+  <img src="./Languages/image-5.png" width="7%">
   <img src="./Languages/image-6.png" width="6.5%">
   <img src="./Languages/image-7.png" width="6.5%">
   <img src="./Languages/image-8.png" width="6.5%">
@@ -97,7 +98,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-lists
  <img src="./OS'/image-1.png" width="103"/><span>&nbsp;</span>
  <img src="./OS'/image.png" width="60"/><span>&nbsp;</span>
  <img src="https://skillicons.dev/icons?i=windows" width="60"/><span>&nbsp;</span>
- <img src="./Languages/image-5.png" width="65"/><span>&nbsp;</span>
+ <img src="./OS'/image-4.png" width="70"/><span>&nbsp;</span>
   <img src="./OS'/image-3.png" width="60"/>
  </div> 
 </div>
