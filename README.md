@@ -76,8 +76,8 @@ cool flowery effect
   <h3 style="display: inline-block">
     ⚒️ Others ⚒️
   </h3>
-  <div div align="center"style="dispaly:flex; width: 200px; position: relative; align-items:center; justify-content:center">
- <img src="./OS'/image-1.png" width="120" style="margin-right:80px; cursor:pointer"/> <img src="./OS'/image-3.png" width="30"style="cursor:pointer"/> <img src="./OS'/image.png" width="30" yy/> <img src="https://skillicons.dev/icons?i=windows" width="30"/> <img src="./Languages/image-5.png" width="35"/>
+  <div div align="center">
+ <img src="./OS'/image-1.png" width="120" style="margin-right:80px; cursor:pointer"/> <img src="./OS'/image-3.png" width="30"/> <img src="./OS'/image.png" width="30"/> <img src="https://skillicons.dev/icons?i=windows" width="30"/> <img src="./Languages/image-5.png" width="35"/>
  </div> 
 </div>
 </br>
