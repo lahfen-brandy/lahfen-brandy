@@ -6,7 +6,7 @@ https://icon-sets.iconify.design/simple-icons/
 -->
 
 <h1 align="center" style="display: inline-block; margin: 1rem auto">
- Hi there  I'm Brandy (storm🎃) a 🐞 bounty hunter
+ Hi there,  I'm Brandy (storm🎃) a 🐞 bounty hunter
 </h1>
 
 - 🔭 pentester and offsec enthusiast.
