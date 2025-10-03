@@ -6,7 +6,7 @@ https://icon-sets.iconify.design/simple-icons/
 -->
 
 <h1 align="center" style="display: inline-block; margin: 1rem auto">
- Hi there  I'm Brandy (storm🎃) a 🐞 bounty hunter
+ Hi there,  I'm Brandy (storm🎃) a 🐞 bounty hunter
 </h1>
 
 - 🔭 pentester and offsec enthusiast.
@@ -100,11 +100,11 @@ https://icon-sets.iconify.design/simple-icons/
     ⚒️ systems I've used ⚒️
   </h3>
   <div div align="center" width="8px">
- <img src="./OS'/image-1.png" width="16%"/><span>&nbsp;</span>
- <img src="./OS'/image.png" width="10%"/><span>&nbsp;</span>
- <img src="https://skillicons.dev/icons?i=windows" width="10%"/><span>&nbsp;</span>
- <img src="./OS'/image-4.png" width="10%"/><span>&nbsp;</span>
-  <img src="./OS'/image-3.png" width="10%"/>
+ <img src="./OS'/image-1.png" width="14%"/><span>&nbsp;</span>
+ <img src="./OS'/image.png" width="9.1%"/><span>&nbsp;</span>
+ <img src="https://skillicons.dev/icons?i=windows" width="9.1%"/><span>&nbsp;</span>
+ <img src="./OS'/image-4.png" width="9.1%"/><span>&nbsp;</span>
+  <img src="./OS'/image-3.png" width="9.1%"/>
  </div> 
 </div>
 <div align="center">
