@@ -4,10 +4,10 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-lists
 
 https://icon-sets.iconify.design/simple-icons/
 -->
-
+<!--
 <h1 align="center" style="display: inline-block; margin: 1rem auto">
  Hi there,  I'm Brandy (storm🎃) a 🐞 bounty hunter
-</h1>
+</h1> -->
 <!--
 - 🔭 pentester and offsec enthusiast.
 <!--
@@ -18,7 +18,7 @@ https://icon-sets.iconify.design/simple-icons/
 - 👯 I’m looking to collaborate on a reasonable **real world** project with a team
 - ⚙️ Visit my Github Org **[lahfen-brandy](https://github.com/lahfen-brandy)** 
 -->
-
+<!--
 - 📫 How to reach me:
   - **[in/lahfen](https://www.linkedin.com/in/lahfen-brandy-82a296353/)**
   - **[x/@lahfen](https://x.com/LahfenB34295)**
