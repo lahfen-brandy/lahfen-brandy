@@ -18,7 +18,7 @@ https://icon-sets.iconify.design/simple-icons/
 - 👯 I’m looking to collaborate on a reasonable **real world** project with a team
 - ⚙️ Visit my Github Org **[lahfen-brandy](https://github.com/lahfen-brandy)** 
 -->
-
+<!--
 - 📫 How to reach me:
   - **[in/lahfen](https://www.linkedin.com/in/lahfen-brandy-82a296353/)**
   - **[x/@lahfen](https://x.com/LahfenB34295)**
