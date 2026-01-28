@@ -8,13 +8,13 @@ https://icon-sets.iconify.design/simple-icons/
 <h1 align="center" style="display: inline-block; margin: 1rem auto">
  Hi there,  I'm Brandy (storm🎃) a 🐞 bounty hunter
 </h1>
-
+<!--
 - 🔭 pentester and offsec enthusiast.
-
+<!--
 - 🧠 I’m currently
   - 🦀 learning python
   - 🚀 leveling up my skills on **[tryhackme](https://tryhackme.com/p/Lbstorm)**
-
+<!--
 - 👯 I’m looking to collaborate on a reasonable **real world** project with a team
 - ⚙️ Visit my Github Org **[lahfen-brandy](https://github.com/lahfen-brandy)**
 
