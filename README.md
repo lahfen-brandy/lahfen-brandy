@@ -16,7 +16,8 @@ https://icon-sets.iconify.design/simple-icons/
   - 🚀 leveling up my skills on **[tryhackme](https://tryhackme.com/p/Lbstorm)**
 <!--
 - 👯 I’m looking to collaborate on a reasonable **real world** project with a team
-- ⚙️ Visit my Github Org **[lahfen-brandy](https://github.com/lahfen-brandy)**
+- ⚙️ Visit my Github Org **[lahfen-brandy](https://github.com/lahfen-brandy)** 
+-->
 
 - 📫 How to reach me:
   - **[in/lahfen](https://www.linkedin.com/in/lahfen-brandy-82a296353/)**
