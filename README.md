@@ -99,16 +99,17 @@ https://icon-sets.iconify.design/simple-icons/
   <h3 style="display: inline-block">
     ⚒️ systems I've used ⚒️
   </h3>
-  <div div align="center" width="8px">
+  <div  align="center" width="8px">
  <img src="./OS'/image-1.png" width="14%"/><span>&nbsp;</span>
  <img src="./OS'/image.png" width="9.1%"/><span>&nbsp;</span>
  <img src="https://skillicons.dev/icons?i=windows" width="9.1%"/><span>&nbsp;</span>
  <img src="./OS'/image-4.png" width="9.1%"/><span>&nbsp;</span>
   <img src="./OS'/image-3.png" width="9.1%"/>
  </div> 
-</div>
+</div>-->
 <div align="center">
-  <h3 style="display: inline-block"> -->
+  <h3 style="display: inline-block"> 
+  
     📈 My Stats 📈
   </h3>
 
