@@ -28,7 +28,7 @@ https://icon-sets.iconify.design/simple-icons/
   - **[hackthebox/@lbstorm](https://app.hackthebox.com/users/2388971)**
   - **[medium/@lahfenbrandy](https://medium.com/@lahfenbrandy)**
   - **<lahfenbrandy@gmail.com>**
-
+<!--
 <div align="center">
   <h3 style="display: inline-block">
     My base languages ⚡
@@ -108,7 +108,7 @@ https://icon-sets.iconify.design/simple-icons/
  </div> 
 </div>
 <div align="center">
-  <h3 style="display: inline-block"> 
+  <h3 style="display: inline-block"> -->
     📈 My Stats 📈
   </h3>
 
