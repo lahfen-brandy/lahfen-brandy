@@ -111,13 +111,13 @@ https://icon-sets.iconify.design/simple-icons/
 <div align="center">
   <h3 style="display: inline-block"> 
   
-    📈 My Stats 📈
-  </h3>
+  <!--  📈 My Stats 📈 
+  </h3> -->
 
 
   ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=lahfen-brandy&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lahfen-brandy&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
   [![github-followers](https://img.shields.io/github/followers/lahfen-brandy?logo=github&style=for-the-badge&color=22c55e&labelColor=000000)](https://github.com/lahfen-brandy)
 
   [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-6CC644?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2388971) 
