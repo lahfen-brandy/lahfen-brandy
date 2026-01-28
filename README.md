@@ -106,7 +106,7 @@ https://icon-sets.iconify.design/simple-icons/
  <img src="./OS'/image-4.png" width="9.1%"/><span>&nbsp;</span>
   <img src="./OS'/image-3.png" width="9.1%"/>
  </div> 
-</div>-->
+</div>
 <div align="center">
   <h3 style="display: inline-block"> 
   
@@ -124,8 +124,8 @@ https://icon-sets.iconify.design/simple-icons/
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4769?style=flat-square&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/Lbstorm)
 
 <!-- HACKVISER PROFILE
-[![Hackviser](https://img.shields.io/badge/Hackviser-00c853?&style=flat-square&logo=codeforces&logoColor=black)](https://app.hackviser.com/profile/lbstorm) -->
+[![Hackviser](https://img.shields.io/badge/Hackviser-00c853?&style=flat-square&logo=codeforces&logoColor=black)](https://app.hackviser.com/profile/lbstorm) ->
 
 
 [![LabEx](https://img.shields.io/badge/LabEx-008080?style=flat-square&logo=linux&logoColor=black)](https://labex.io/users/lb-storm-38355818)
-</div>
+</div> -->
