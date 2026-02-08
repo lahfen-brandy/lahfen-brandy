@@ -115,7 +115,7 @@ https://icon-sets.iconify.design/simple-icons/
   </h3> -->
 
 
-  ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=lahfen-brandy&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lahfen-brandy&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+  ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=lahfen-brandy&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lahfen-brandy&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
   [![github-followers](https://img.shields.io/github/followers/lahfen-brandy?logo=github&style=for-the-badge&color=22c55e&labelColor=000000)](https://github.com/lahfen-brandy)
