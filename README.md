@@ -130,3 +130,5 @@ https://icon-sets.iconify.design/simple-icons/
 
 [![LabEx](https://img.shields.io/badge/LabEx-008080?style=flat-square&logo=linux&logoColor=black)](https://labex.io/users/lb-storm-38355818)
 </div> -->
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4769?style=flat-square&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/Lbstorm)
