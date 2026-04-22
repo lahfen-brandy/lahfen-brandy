@@ -132,6 +132,4 @@ https://icon-sets.iconify.design/simple-icons/
 </div> -->
 <div align="center">
  [![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4769?style=flat-square&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/Lbstorm)
-
-[![LabEx](https://img.shields.io/badge/LabEx-191970?style=flat-square&logo=labex&logoColor=darkblue)](https://labex.io/u/lb-storm-38355818)
 </div>
