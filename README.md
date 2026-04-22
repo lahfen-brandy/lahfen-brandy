@@ -120,17 +120,24 @@ https://icon-sets.iconify.design/simple-icons/
 <!--
   [![github-followers](https://img.shields.io/github/followers/lahfen-brandy?logo=github&style=for-the-badge&color=22c55e&labelColor=000000)](https://github.com/lahfen-brandy)
 
-  [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-6CC644?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2388971) 
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-6CC644?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2388971) 
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4769?style=flat-square&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/Lbstorm)
 
 <!-- HACKVISER PROFILE
 [![Hackviser](https://img.shields.io/badge/Hackviser-00c853?&style=flat-square&logo=codeforces&logoColor=black)](https://app.hackviser.com/profile/lbstorm) ->
 
-
 [![LabEx](https://img.shields.io/badge/LabEx-008080?style=flat-square&logo=linux&logoColor=black)](https://labex.io/users/lb-storm-38355818)
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)]([https://hackerone.com/](https://hackerone.com/fbstorm?type=user)) other styles are "for-the-badge"
+
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-black?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/fbstorm)
+
+[![Intigriti](https://img.shields.io/badge/Intigriti-6a5cff?style=for-the-badge&logo=intigriti&logoColor=white)](https://app.intigriti.com/researcher/profile/fbstorm)
+
+
 </div> -->
 <p align="center">
  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4769?style=flat-square&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/Lbstorm) [![LabEx](https://img.shields.io/badge/LabEx-008080?style=flat-square&logo=labex&logoColor=black)](https://labex.io/users/lb-storm-38355818)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4769?style=flat-square&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/Lbstorm)
 </p>
